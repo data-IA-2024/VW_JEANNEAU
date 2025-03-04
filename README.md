@@ -12,6 +12,7 @@ git clone <URL_DU_DEPOT>
 
 ### Créer le fichier .env
 
+```
 # For Azure AI Services
 SPEECH_KEY = *********
 SPEECH_REGION = francecentral
@@ -22,6 +23,7 @@ USERAZURE = "cyril"
 PASSWORD ="********"
 HOST = "vw-cyril.postgres.database.azure.com"
 PORT = "5432"
+```
 
 ### Dans chacun des répertoires ./src/frontend et .src/backend :
 
